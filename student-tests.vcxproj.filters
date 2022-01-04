@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\student_catch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\FileAllocManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\student_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\catch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\LinkedList.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\Node.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\FileAllocManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P2_2\P2_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3C55AF00-1BBB-3CB0-BFF4-CD441B8CF421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FC4E911B-7C26-39FB-8820-39D0E427F533}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="P2_2\LinkedList.txx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="P2_2\Node.txx">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

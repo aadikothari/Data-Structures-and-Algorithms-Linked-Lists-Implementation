@@ -1,0 +1,6 @@
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/RUN_TESTS.dir
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/student-tests.dir
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/FileAllocDriver.dir
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/submission.dir
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/ALL_BUILD.dir
+C:/Virginia Tech/FALL2021/Data Structures/Project Source Codes/P2_2/CMakeFiles/ZERO_CHECK.dir
